@@ -1,3 +1,7 @@
 body{
-    background-color: aqua;
+    background-color: rgb(46, 27, 27);
+}
+
+h1{
+    align-items: center;
 }
